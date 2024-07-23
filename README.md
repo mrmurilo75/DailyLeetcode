@@ -16,7 +16,7 @@ Warm-Ups
 
 String
 
-8) https://leetcode.com/problems/length-of-last-word/ 
+8) [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](/string/58_length-of-last-word/)
 9) https://leetcode.com/problems/to-lower-case/ 
 10) https://leetcode.com/problems/to-lower-case/ (just do the opposite)
 11) https://leetcode.com/problems/reverse-string/ (don't use two-pointers)
