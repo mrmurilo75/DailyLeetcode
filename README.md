@@ -5,6 +5,7 @@ Following the exercise list from https://www.rareskills.io/post/best-50-leetcode
 ---
 
 Warm-Ups (Playlist)
+
 1) https://leetcode.com/problems/convert-the-temperature/ 
 2) https://leetcode.com/problems/add-two-integers/ 
 3) https://leetcode.com/problems/smallest-even-multiple/ 
@@ -13,7 +14,8 @@ Warm-Ups (Playlist)
 6) https://leetcode.com/problems/number-of-common-factors/ 
 7) https://leetcode.com/problems/xor-operation-in-an-array/ 
 
-String (Playlist):
+String (Playlist)
+
 8) https://leetcode.com/problems/length-of-last-word/ 
 9) https://leetcode.com/problems/to-lower-case/ 
 10) https://leetcode.com/problems/to-lower-case/ (just do the opposite)
@@ -27,7 +29,8 @@ String (Playlist):
 18) https://leetcode.com/problems/jewels-and-stones/ 
 19) https://leetcode.com/problems/roman-to-integer/ 
 
-Array (Playlist):
+Array (Playlist)
+
 20) https://leetcode.com/problems/fizz-buzz/ 
 21) https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/ 
 22) https://Leetleetcode.com/problems/sort-an-array/ (ignore leetcode instructions, use built-in feature)
@@ -45,14 +48,16 @@ Array (Playlist):
 34) https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/ 
 35) https://leetcode.com/problems/decompress-run-length-encoded-list/ 
 
-2D Array (Playlist):
+2D Array (Playlist)
+
 36) https://leetcode.com/problems/richest-customer-wealth/ 
 37) https://leetcode.com/problems/flipping-an-image/ 
 38) https://leetcode.com/problems/lucky-numbers-in-a-matrix/ 
 39) https://leetcode.com/problems/shift-2d-grid/ 
 40) https://leetcode.com/problems/available-captures-for-rook/ 
 
-Hash Table (Playlist):
+Hash Table (Playlist)
+
 41) https://leetcode.com/problems/jewels-and-stones/ 
 42) https://leetcode.com/problems/decode-the-message/ 
 43) https://leetcode.com/problems/unique-morse-code-words/ 
