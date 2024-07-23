@@ -1,6 +1,12 @@
 # DailyLeetcode
 
-Following the exercise list from https://www.rareskills.io/post/best-50-leetcode-questions-to-start
+Following the exercise list from [RareSkill.IO](https://www.rareskills.io/post/best-50-leetcode-questions-to-start), as well as the daily leetcode challenges.
+
+---
+
+## Daily Leetcode Challenges
+
+1. (2024-07-23) [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Solution](/daily-challenges/1636_sort-array-by-increasing-frequency/)
 
 ---
 
