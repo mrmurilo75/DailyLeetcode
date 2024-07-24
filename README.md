@@ -7,6 +7,7 @@ Following the exercise list from [RareSkill.IO](https://www.rareskills.io/post/b
 ## Daily Leetcode Challenges
 
 1. (2024-07-23) [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Solution](/daily-challenges/1636_sort-array-by-increasing-frequency/)
+2. (2024-07-24) [2191. Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/)
 
 ---
 
