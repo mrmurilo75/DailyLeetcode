@@ -37,7 +37,7 @@ String
 
 Array
 
-20) https://leetcode.com/problems/fizz-buzz/ 
+20) [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](/array/412_fizz-buzz/)
 21) https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/ 
 22) https://Leetleetcode.com/problems/sort-an-array/ (ignore leetcode instructions, use built-in feature)
 23) https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/ 
