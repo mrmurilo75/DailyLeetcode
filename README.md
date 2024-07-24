@@ -13,7 +13,7 @@ Following the exercise list from [RareSkill.IO](https://www.rareskills.io/post/b
 Warm-Ups
 
 1) [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [Solution](/warm-ups/2469_convert-the-temperature/)
-2) https://leetcode.com/problems/add-two-integers/
+2) [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Solution](/warm-ups/2235_add-two-integers/)
 3) https://leetcode.com/problems/smallest-even-multiple/ 
 4) https://leetcode.com/problems/final-value-of-variable-after-performing-operations/ 
 5) https://leetcode.com/problems/count-of-matches-in-tournament/ 
