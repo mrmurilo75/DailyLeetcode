@@ -8,6 +8,7 @@ Following the exercise list from [RareSkill.IO](https://www.rareskills.io/post/b
 
 1. (2024-07-23) [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Solution](/daily-challenges/1636_sort-array-by-increasing-frequency/)
 2. (2024-07-24) [2191. Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/)
+3. (2024-08-06) [3016. Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/)
 
 ---
 
@@ -15,7 +16,7 @@ Warm-Ups
 
 1) [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [Solution](/warm-ups/2469_convert-the-temperature/)
 2) [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Solution](/warm-ups/2235_add-two-integers/)
-3) https://leetcode.com/problems/smallest-even-multiple/ 
+3) [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [Solution](/warm-ups/2413_smallest-even-multiple/)
 4) https://leetcode.com/problems/final-value-of-variable-after-performing-operations/ 
 5) https://leetcode.com/problems/count-of-matches-in-tournament/ 
 6) https://leetcode.com/problems/number-of-common-factors/ 
@@ -24,7 +25,7 @@ Warm-Ups
 String
 
 8) [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](/string/58_length-of-last-word/)
-9) https://leetcode.com/problems/to-lower-case/ 
+9) [709. To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Solution](/string/709_to-lower-case/)
 10) https://leetcode.com/problems/to-lower-case/ (just do the opposite)
 11) https://leetcode.com/problems/reverse-string/ (don't use two-pointers)
 12) https://leetcode.com/problems/valid-palindrome/ 
